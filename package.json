@@ -18,7 +18,3 @@
   }
 }
 
-
-git add .
-git commit -m "npm start command added"
-git push -u origin main
