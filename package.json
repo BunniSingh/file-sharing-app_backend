@@ -4,6 +4,7 @@
   "description": "File share whith smtp",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Banti Singh",
@@ -16,3 +17,8 @@
     "uuid": "^11.1.0"
   }
 }
+
+
+git add .
+git commit -m "npm start command added"
+git push -u origin main
